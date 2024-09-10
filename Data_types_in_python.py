@@ -1,7 +1,8 @@
 # Text Type:	str
-# Numeric Types:	int, float, complex
 # Boolean Type:	bool
+# Numeric Types:	int, float, complex
 # Sequence Types:	list, tuple, range
+#==========================================
 # Mapping Type:	dict
 # Set Types:	set, frozenset
 # Binary Types:	bytes, bytearray, memoryview
